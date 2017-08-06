@@ -1,1 +1,1 @@
-# jgpcinfo
+# Backend Challenges boilerplate - package.json
